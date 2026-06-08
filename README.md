@@ -11,7 +11,7 @@ This project demonstrates core Python concepts like file handling, data structur
 - ✅ Mark tasks as completed  
 - ❌ Delete tasks by ID  
 - 📊 View task statistics (total, completed, pending, completion rate)  
-- 💾 Automatic save & load using JSON file  
+- 💾 Save & load using JSON file  
 
 ---
 
